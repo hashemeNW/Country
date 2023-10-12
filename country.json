@@ -1,0 +1,1836 @@
+[
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "DZ",
+    "Country ID": "2991520000041458087",
+    "Country Name": "Algeria"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "AO",
+    "Country ID": "#N/A",
+    "Country Name": "Angola"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "BW",
+    "Country ID": "#N/A",
+    "Country Name": "Botswana"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "IO",
+    "Country ID": "#N/A",
+    "Country Name": "British Indian Ocean Territory"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "BI",
+    "Country ID": "#N/A",
+    "Country Name": "Burundi"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "CM",
+    "Country ID": "#N/A",
+    "Country Name": "Cameroon"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "CV",
+    "Country ID": "#N/A",
+    "Country Name": "Cape Verde"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "CF",
+    "Country ID": "#N/A",
+    "Country Name": "Central African Republic"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "TD",
+    "Country ID": "#N/A",
+    "Country Name": "Chad"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "KM",
+    "Country ID": "#N/A",
+    "Country Name": "Comoros"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "YT",
+    "Country ID": "#N/A",
+    "Country Name": "Mayotte"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "CG",
+    "Country ID": "#N/A",
+    "Country Name": "Republic of the Congo"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "CD",
+    "Country ID": "#N/A",
+    "Country Name": "Democratic Republic of the Congo"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "BJ",
+    "Country ID": "#N/A",
+    "Country Name": "Benin"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "GQ",
+    "Country ID": "#N/A",
+    "Country Name": "Equatorial Guinea"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "ET",
+    "Country ID": "#N/A",
+    "Country Name": "Ethiopia"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "ER",
+    "Country ID": "#N/A",
+    "Country Name": "Eritrea"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "TF",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "DJ",
+    "Country ID": "#N/A",
+    "Country Name": "Djibouti"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "GA",
+    "Country ID": "#N/A",
+    "Country Name": "Gabon"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "GM",
+    "Country ID": "#N/A",
+    "Country Name": "Gambia"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "GH",
+    "Country ID": "#N/A",
+    "Country Name": "Ghana"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "GN",
+    "Country ID": "#N/A",
+    "Country Name": "Guinea"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "CI",
+    "Country ID": "#N/A",
+    "Country Name": "Ivory Coast"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "KE",
+    "Country ID": "#N/A",
+    "Country Name": "Kenya"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "LS",
+    "Country ID": "#N/A",
+    "Country Name": "Lesotho"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "LR",
+    "Country ID": "#N/A",
+    "Country Name": "Liberia"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "LY",
+    "Country ID": "2991520000041458085",
+    "Country Name": "Libya"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "MG",
+    "Country ID": "#N/A",
+    "Country Name": "Madagascar"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "MW",
+    "Country ID": "#N/A",
+    "Country Name": "Malawi"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "ML",
+    "Country ID": "#N/A",
+    "Country Name": "Mali"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "MR",
+    "Country ID": "#N/A",
+    "Country Name": "Mauritania"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "MU",
+    "Country ID": "#N/A",
+    "Country Name": "Mauritius"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "MA",
+    "Country ID": "2991520000037278913",
+    "Country Name": "Morocco"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "MZ",
+    "Country ID": "#N/A",
+    "Country Name": "Mozambique"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "NA",
+    "Country ID": "2991520000037278917",
+    "Country Name": "Namibia"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "NE",
+    "Country ID": "#N/A",
+    "Country Name": "Niger"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "NG",
+    "Country ID": "2991520000037278931",
+    "Country Name": "Nigeria"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "GW",
+    "Country ID": "#N/A",
+    "Country Name": "Guinea-Bissau"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "RE",
+    "Country ID": "#N/A",
+    "Country Name": "Reunion"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "RW",
+    "Country ID": "#N/A",
+    "Country Name": "Rwanda"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "SH",
+    "Country ID": "#N/A",
+    "Country Name": "Saint Helena"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "ST",
+    "Country ID": "#N/A",
+    "Country Name": "Sao Tome and Principe"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "SN",
+    "Country ID": "#N/A",
+    "Country Name": "Senegal"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "SC",
+    "Country ID": "#N/A",
+    "Country Name": "Seychelles"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "SL",
+    "Country ID": "#N/A",
+    "Country Name": "Sierra Leone"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "SO",
+    "Country ID": "#N/A",
+    "Country Name": "Somalia"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "ZA",
+    "Country ID": "2991520000041458081",
+    "Country Name": "South Africa"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "ZW",
+    "Country ID": "2991520000041458091",
+    "Country Name": "Zimbabwe"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "SS",
+    "Country ID": "#N/A",
+    "Country Name": "South Sudan"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "SD",
+    "Country ID": "#N/A",
+    "Country Name": "Sudan"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "EH",
+    "Country ID": "#N/A",
+    "Country Name": "Western Sahara"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "SZ",
+    "Country ID": "#N/A",
+    "Country Name": "Swaziland"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "TG",
+    "Country ID": "#N/A",
+    "Country Name": "Togo"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "TN",
+    "Country ID": "#N/A",
+    "Country Name": "Tunisia"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "UG",
+    "Country ID": "#N/A",
+    "Country Name": "Uganda"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "EG",
+    "Country ID": "2991520000037278933",
+    "Country Name": "Egypt"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "TZ",
+    "Country ID": "#N/A",
+    "Country Name": "Tanzania"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "BF",
+    "Country ID": "#N/A",
+    "Country Name": "Burkina Faso"
+  },
+  {
+    "Continent": "AF",
+    "Continent ID": "2991520000036238583",
+    "Country Code": "ZM",
+    "Country ID": "#N/A",
+    "Country Name": "Zambia"
+  },
+  {
+    "Continent": "AN",
+    "Continent ID": "2991520000036238603",
+    "Country Code": "AQ",
+    "Country ID": "#N/A",
+    "Country Name": "Antarctica"
+  },
+  {
+    "Continent": "AN",
+    "Continent ID": "2991520000036238603",
+    "Country Code": "BV",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "AN",
+    "Continent ID": "2991520000036238603",
+    "Country Code": "GS",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "AN",
+    "Continent ID": "2991520000036238603",
+    "Country Code": "HM",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "AF",
+    "Country ID": "#N/A",
+    "Country Name": "Afghanistan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "AZ",
+    "Country ID": "2991520000037278857",
+    "Country Name": "Azerbaijan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "BH",
+    "Country ID": "#N/A",
+    "Country Name": "Bahrain"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "BD",
+    "Country ID": "#N/A",
+    "Country Name": "Bangladesh"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "AM",
+    "Country ID": "#N/A",
+    "Country Name": "Armenia"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "BT",
+    "Country ID": "#N/A",
+    "Country Name": "Bhutan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "BN",
+    "Country ID": "#N/A",
+    "Country Name": "Brunei"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "MM",
+    "Country ID": "2991520000041366199",
+    "Country Name": "Myanmar"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "KH",
+    "Country ID": "#N/A",
+    "Country Name": "Cambodia"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "LK",
+    "Country ID": "2991520000039098826",
+    "Country Name": "Sri Lanka"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "CN",
+    "Country ID": "2991520000037278887",
+    "Country Name": "China"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "TW",
+    "Country ID": "#N/A",
+    "Country Name": "Taiwan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "CX",
+    "Country ID": "#N/A",
+    "Country Name": "Christmas Island"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "CC",
+    "Country ID": "#N/A",
+    "Country Name": "Cocos Islands"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "CY",
+    "Country ID": "2991520000037278855",
+    "Country Name": "Cyprus"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "GE",
+    "Country ID": "#N/A",
+    "Country Name": "Georgia"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "HK",
+    "Country ID": "2991520000041366207",
+    "Country Name": "Hong Kong"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "IN",
+    "Country ID": "2991520000037278885",
+    "Country Name": "India"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "ID",
+    "Country ID": "2991520000041366215",
+    "Country Name": "Indonesia"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "IR",
+    "Country ID": "2991520000037278935",
+    "Country Name": "Iran"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "IQ",
+    "Country ID": "2991520000037278897",
+    "Country Name": "Iraq"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "IL",
+    "Country ID": "2991520000037278937",
+    "Country Name": "Israel"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "JP",
+    "Country ID": "2991520000037278903",
+    "Country Name": "Japan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "KZ",
+    "Country ID": "2991520000037278929",
+    "Country Name": "Kazakhstan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "JO",
+    "Country ID": "2991520000041366203",
+    "Country Name": "Jordan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "KP",
+    "Country ID": "#N/A",
+    "Country Name": "North Korea"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "KR",
+    "Country ID": "2991520000037278841",
+    "Country Name": "South Korea"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "KW",
+    "Country ID": "2991520000037278899",
+    "Country Name": "Kuwait"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "KG",
+    "Country ID": "#N/A",
+    "Country Name": "Kyrgyzstan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "LA",
+    "Country ID": "#N/A",
+    "Country Name": "Laos"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "LB",
+    "Country ID": "2991520000037278915",
+    "Country Name": "Lebanon"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "MO",
+    "Country ID": "#N/A",
+    "Country Name": "Macau"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "MY",
+    "Country ID": "2991520000036158229",
+    "Country Name": "Malaysia"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "MV",
+    "Country ID": "2991520000037278853",
+    "Country Name": "Maldives"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "MN",
+    "Country ID": "#N/A",
+    "Country Name": "Mongolia"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "OM",
+    "Country ID": "2991520000037278925",
+    "Country Name": "Oman"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "NP",
+    "Country ID": "2991520000037278911",
+    "Country Name": "Nepal"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "PK",
+    "Country ID": "2991520000037278923",
+    "Country Name": "Pakistan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "PS",
+    "Country ID": "#N/A",
+    "Country Name": "Palestine"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "PH",
+    "Country ID": "2991520000037278891",
+    "Country Name": "Philippines"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "TL",
+    "Country ID": "#N/A",
+    "Country Name": "East Timor"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "QA",
+    "Country ID": "#N/A",
+    "Country Name": "Qatar"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "RU",
+    "Country ID": "2991520000037278927",
+    "Country Name": "Russia"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "SA",
+    "Country ID": "2991520000037278889",
+    "Country Name": "Saudi Arabia"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "SG",
+    "Country ID": "#N/A",
+    "Country Name": "Singapore"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "VN",
+    "Country ID": "#N/A",
+    "Country Name": "Vietnam"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "SY",
+    "Country ID": "#N/A",
+    "Country Name": "Syria"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "TJ",
+    "Country ID": "#N/A",
+    "Country Name": "Tajikistan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "TH",
+    "Country ID": "2991520000037278901",
+    "Country Name": "Thailand"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "AE",
+    "Country ID": "2991520000037278893",
+    "Country Name": "United Arab Emirates"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "TR",
+    "Country ID": "#N/A",
+    "Country Name": "Turkey"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "TM",
+    "Country ID": "#N/A",
+    "Country Name": "Turkmenistan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "EG",
+    "Country ID": "2991520000037278933",
+    "Country Name": "Egypt"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "UZ",
+    "Country ID": "2991520000041366211",
+    "Country Name": "Uzbekistan"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "YE",
+    "Country ID": "2991520000037278895",
+    "Country Name": "Yemen"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "XD",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "AS",
+    "Continent ID": "2991520000036238589",
+    "Country Code": "XS",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "AL",
+    "Country ID": "2991520000041458093",
+    "Country Name": "Albania"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "AD",
+    "Country ID": "#N/A",
+    "Country Name": "Andorra"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "AZ",
+    "Country ID": "2991520000037278857",
+    "Country Name": "Azerbaijan"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "AT",
+    "Country ID": "#N/A",
+    "Country Name": "Austria"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "AM",
+    "Country ID": "#N/A",
+    "Country Name": "Armenia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "BE",
+    "Country ID": "#N/A",
+    "Country Name": "Belgium"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "BA",
+    "Country ID": "#N/A",
+    "Country Name": "Bosnia and Herzegovina"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "BG",
+    "Country ID": "2991520000041458095",
+    "Country Name": "Bulgaria"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "BY",
+    "Country ID": "#N/A",
+    "Country Name": "Belarus"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "HR",
+    "Country ID": "#N/A",
+    "Country Name": "Croatia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "CY",
+    "Country ID": "2991520000037278855",
+    "Country Name": "Cyprus"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "CZ",
+    "Country ID": "#N/A",
+    "Country Name": "Czech Republic"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "DK",
+    "Country ID": "#N/A",
+    "Country Name": "Denmark"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "EE",
+    "Country ID": "2991520000037278905",
+    "Country Name": "Estonia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "FO",
+    "Country ID": "#N/A",
+    "Country Name": "Faroe Islands"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "FI",
+    "Country ID": "#N/A",
+    "Country Name": "Finland"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "AX",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "FR",
+    "Country ID": "2991520000037278843",
+    "Country Name": "France"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "GE",
+    "Country ID": "#N/A",
+    "Country Name": "Georgia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "DE",
+    "Country ID": "#N/A",
+    "Country Name": "Germany"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "GI",
+    "Country ID": "#N/A",
+    "Country Name": "Gibraltar"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "GR",
+    "Country ID": "2991520000037278851",
+    "Country Name": "Greece"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "VA",
+    "Country ID": "#N/A",
+    "Country Name": "Vatican"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "HU",
+    "Country ID": "#N/A",
+    "Country Name": "Hungary"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "IS",
+    "Country ID": "#N/A",
+    "Country Name": "Iceland"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "IE",
+    "Country ID": "#N/A",
+    "Country Name": "Ireland"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "IT",
+    "Country ID": "#N/A",
+    "Country Name": "Italy"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "KZ",
+    "Country ID": "2991520000037278929",
+    "Country Name": "Kazakhstan"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "XK",
+    "Country ID": "#N/A",
+    "Country Name": "Kosovo"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "LV",
+    "Country ID": "#N/A",
+    "Country Name": "Latvia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "LI",
+    "Country ID": "#N/A",
+    "Country Name": "Liechtenstein"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "LT",
+    "Country ID": "#N/A",
+    "Country Name": "Lithuania"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "LU",
+    "Country ID": "#N/A",
+    "Country Name": "Luxembourg"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "MT",
+    "Country ID": "#N/A",
+    "Country Name": "Malta"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "MC",
+    "Country ID": "#N/A",
+    "Country Name": "Monaco"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "MD",
+    "Country ID": "#N/A",
+    "Country Name": "Moldova"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "ME",
+    "Country ID": "#N/A",
+    "Country Name": "Montenegro"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "NL",
+    "Country ID": "2991520000037278909",
+    "Country Name": "Netherlands"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "NO",
+    "Country ID": "#N/A",
+    "Country Name": "Norway"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "PL",
+    "Country ID": "2991520000037278921",
+    "Country Name": "Poland"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "PT",
+    "Country ID": "#N/A",
+    "Country Name": "Portugal"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "RO",
+    "Country ID": "#N/A",
+    "Country Name": "Romania"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "RU",
+    "Country ID": "2991520000037278927",
+    "Country Name": "Russia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "SM",
+    "Country ID": "#N/A",
+    "Country Name": "San Marino"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "RS",
+    "Country ID": "2991520000037278939",
+    "Country Name": "Serbia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "SK",
+    "Country ID": "#N/A",
+    "Country Name": "Slovakia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "SI",
+    "Country ID": "#N/A",
+    "Country Name": "Slovenia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "ES",
+    "Country ID": "#N/A",
+    "Country Name": "Spain"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "SJ",
+    "Country ID": "#N/A",
+    "Country Name": "Svalbard and Jan Mayen"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "SE",
+    "Country ID": "#N/A",
+    "Country Name": "Sweden"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "CH",
+    "Country ID": "2991520000037278845",
+    "Country Name": "Switzerland"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "TR",
+    "Country ID": "2991520000041458097",
+    "Country Name": "Turkey"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "UA",
+    "Country ID": "#N/A",
+    "Country Name": "Ukraine"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "MK",
+    "Country ID": "#N/A",
+    "Country Name": "Macedonia"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "GB",
+    "Country ID": "2991520000037278847",
+    "Country Name": "United Kingdom"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "GG",
+    "Country ID": "#N/A",
+    "Country Name": "Guernsey"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "JE",
+    "Country ID": "#N/A",
+    "Country Name": "Jersey"
+  },
+  {
+    "Continent": "EU",
+    "Continent ID": "2991520000036238587",
+    "Country Code": "IM",
+    "Country ID": "#N/A",
+    "Country Name": "Isle of Man"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "AG",
+    "Country ID": "#N/A",
+    "Country Name": "Antigua and Barbuda"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "BS",
+    "Country ID": "#N/A",
+    "Country Name": "Bahamas"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "BB",
+    "Country ID": "2991520000037278881",
+    "Country Name": "Barbados"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "BM",
+    "Country ID": "#N/A",
+    "Country Name": "Bermuda"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "BZ",
+    "Country ID": "#N/A",
+    "Country Name": "Belize"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "VG",
+    "Country ID": "#N/A",
+    "Country Name": "British Virgin Islands"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "CA",
+    "Country ID": "2991520000037278867",
+    "Country Name": "Canada"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "KY",
+    "Country ID": "#N/A",
+    "Country Name": "Cayman Islands"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "CR",
+    "Country ID": "2991520000037278919",
+    "Country Name": "Costa Rica"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "CU",
+    "Country ID": "#N/A",
+    "Country Name": "Cuba"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "DM",
+    "Country ID": "#N/A",
+    "Country Name": "Dominica"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "DO",
+    "Country ID": "2991520000037278865",
+    "Country Name": "Dominican Republic"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "SV",
+    "Country ID": "#N/A",
+    "Country Name": "El Salvador"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "GL",
+    "Country ID": "#N/A",
+    "Country Name": "Greenland"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "GD",
+    "Country ID": "#N/A",
+    "Country Name": "Grenada"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "GP",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "GT",
+    "Country ID": "2991520000037278873",
+    "Country Name": "Guatemala"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "HT",
+    "Country ID": "#N/A",
+    "Country Name": "Haiti"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "HN",
+    "Country ID": "#N/A",
+    "Country Name": "Honduras"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "JM",
+    "Country ID": "#N/A",
+    "Country Name": "Jamaica"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "MQ",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "MX",
+    "Country ID": "2991520000037278869",
+    "Country Name": "Mexico"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "MS",
+    "Country ID": "#N/A",
+    "Country Name": "Montserrat"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "CW",
+    "Country ID": "#N/A",
+    "Country Name": "Curacao"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "AW",
+    "Country ID": "#N/A",
+    "Country Name": "Aruba"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "SX",
+    "Country ID": "#N/A",
+    "Country Name": "Sint Maarten"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "BQ",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "NI",
+    "Country ID": "#N/A",
+    "Country Name": "Nicaragua"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "UM",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "PA",
+    "Country ID": "2991520000037278943",
+    "Country Name": "Panama"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "PR",
+    "Country ID": "2991520000037278907",
+    "Country Name": "Puerto Rico"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "BL",
+    "Country ID": "#N/A",
+    "Country Name": "Saint Barthelemy"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "KN",
+    "Country ID": "#N/A",
+    "Country Name": "Saint Kitts and Nevis"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "AI",
+    "Country ID": "#N/A",
+    "Country Name": "Anguilla"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "LC",
+    "Country ID": "#N/A",
+    "Country Name": "Saint Lucia"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "MF",
+    "Country ID": "#N/A",
+    "Country Name": "Saint Martin"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "PM",
+    "Country ID": "#N/A",
+    "Country Name": "Saint Pierre and Miquelon"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "VC",
+    "Country ID": "#N/A",
+    "Country Name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "TT",
+    "Country ID": "#N/A",
+    "Country Name": "Trinidad and Tobago"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "TC",
+    "Country ID": "#N/A",
+    "Country Name": "Turks and Caicos Islands"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "US",
+    "Country ID": "2991520000037278837",
+    "Country Name": "United States"
+  },
+  {
+    "Continent": "NA",
+    "Continent ID": "2991520000036238585",
+    "Country Code": "VI",
+    "Country ID": "#N/A",
+    "Country Name": "U.S. Virgin Islands"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "AS",
+    "Country ID": "#N/A",
+    "Country Name": "American Samoa"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "AU",
+    "Country ID": "2991520000037278871",
+    "Country Name": "Australia"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "SB",
+    "Country ID": "#N/A",
+    "Country Name": "Solomon Islands"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "CK",
+    "Country ID": "#N/A",
+    "Country Name": "Cook Islands"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "FJ",
+    "Country ID": "#N/A",
+    "Country Name": "Fiji"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "PF",
+    "Country ID": "#N/A",
+    "Country Name": "French Polynesia"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "KI",
+    "Country ID": "#N/A",
+    "Country Name": "Kiribati"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "GU",
+    "Country ID": "2991520000037278941",
+    "Country Name": "Guam"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "NR",
+    "Country ID": "#N/A",
+    "Country Name": "Nauru"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "NC",
+    "Country ID": "#N/A",
+    "Country Name": "New Caledonia"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "VU",
+    "Country ID": "#N/A",
+    "Country Name": "Vanuatu"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "NZ",
+    "Country ID": "2991520000037278863",
+    "Country Name": "New Zealand"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "NU",
+    "Country ID": "#N/A",
+    "Country Name": "Niue"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "NF",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "MP",
+    "Country ID": "#N/A",
+    "Country Name": "Northern Mariana Islands"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "UM",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "FM",
+    "Country ID": "#N/A",
+    "Country Name": "Micronesia"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "MH",
+    "Country ID": "#N/A",
+    "Country Name": "Marshall Islands"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "PW",
+    "Country ID": "#N/A",
+    "Country Name": "Palau"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "PG",
+    "Country ID": "#N/A",
+    "Country Name": "Papua New Guinea"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "PN",
+    "Country ID": "#N/A",
+    "Country Name": "Pitcairn"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "TK",
+    "Country ID": "#N/A",
+    "Country Name": "Tokelau"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "TO",
+    "Country ID": "#N/A",
+    "Country Name": "Tonga"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "TV",
+    "Country ID": "#N/A",
+    "Country Name": "Tuvalu"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "WF",
+    "Country ID": "#N/A",
+    "Country Name": "Wallis and Futuna"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "WS",
+    "Country ID": "#N/A",
+    "Country Name": "Samoa"
+  },
+  {
+    "Continent": "OC",
+    "Continent ID": "2991520000036238593",
+    "Country Code": "XX",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "AR",
+    "Country ID": "#N/A",
+    "Country Name": "Argentina"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "BO",
+    "Country ID": "2991520000037278877",
+    "Country Name": "Bolivia"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "BR",
+    "Country ID": "#N/A",
+    "Country Name": "Brazil"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "CL",
+    "Country ID": "2991520000037278861",
+    "Country Name": "Chile"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "CO",
+    "Country ID": "2991520000037278849",
+    "Country Name": "Colombia"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "EC",
+    "Country ID": "2991520000037278879",
+    "Country Name": "Ecuador"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "FK",
+    "Country ID": "#N/A",
+    "Country Name": "Falkland Islands"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "GF",
+    "Country ID": "#N/A",
+    "Country Name": "#N/A"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "GY",
+    "Country ID": "#N/A",
+    "Country Name": "Guyana"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "PY",
+    "Country ID": "2991520000037278875",
+    "Country Name": "Paraguay"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "PE",
+    "Country ID": "2991520000037278859",
+    "Country Name": "Peru"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "SR",
+    "Country ID": "#N/A",
+    "Country Name": "Suriname"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "UY",
+    "Country ID": "#N/A",
+    "Country Name": "Uruguay"
+  },
+  {
+    "Continent": "SA",
+    "Continent ID": "2991520000036238601",
+    "Country Code": "VE",
+    "Country ID": "2991520000037278883",
+    "Country Name": "Venezuela"
+  }
+]
