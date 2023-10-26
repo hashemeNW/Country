@@ -572,7 +572,7 @@
    "Continent ID": "2991520000036238589",
    "Country Code": "MM",
    "Country ID": "2991520000041366199",
-   "Country Name": "Myanmar",
+   "Country Name": "Myanmar (formerly Burma)",
    "Market": "Asia"
  },
  {
@@ -1060,7 +1060,7 @@
    "Continent ID": "2991520000036238587",
    "Country Code": "CZ",
    "Country ID": "#N/A",
-   "Country Name": "Czech Republic",
+   "Country Name": "Czechia (Czech Republic)",
    "Market": "UK EU"
  },
  {
@@ -1756,7 +1756,7 @@
    "Continent ID": "2991520000036238585",
    "Country Code": "US",
    "Country ID": "2991520000037278837",
-   "Country Name": "United States",
+   "Country Name": "United States of America",
    "Market": "Americas"
  },
  {
