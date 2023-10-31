@@ -1069,7 +1069,7 @@
    "Country Code": "DK",
    "Country ID": "#N/A",
    "Country Name": "Denmark",
-   "Market": "#N/A"
+   "Market": "UK EU"
  },
  {
    "Continent": "EU",
@@ -1173,7 +1173,7 @@
    "Country Code": "IE",
    "Country ID": "#N/A",
    "Country Name": "Ireland",
-   "Market": "#N/A"
+   "Market": "UK EU"
  },
  {
    "Continent": "EU",
@@ -1205,7 +1205,7 @@
    "Country Code": "LV",
    "Country ID": "#N/A",
    "Country Name": "Latvia",
-   "Market": "#N/A"
+   "Market": "UK EU"
  },
  {
    "Continent": "EU",
@@ -1533,7 +1533,7 @@
    "Country Code": "SV",
    "Country ID": "#N/A",
    "Country Name": "El Salvador",
-   "Market": "#N/A"
+   "Market": "Americas"
  },
  {
    "Continent": "NA",
