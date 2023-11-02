@@ -531,7 +531,7 @@
    "Continent": "AS",
    "Continent ID": "2991520000036238589",
    "Country Code": "BH",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000057663552",
    "Country Name": "Bahrain",
    "Market": "Middle East"
  },
@@ -579,7 +579,7 @@
    "Continent": "AS",
    "Continent ID": "2991520000036238589",
    "Country Code": "KH",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000057663536",
    "Country Name": "Cambodia",
    "Market": "Asia"
  },
@@ -875,7 +875,7 @@
    "Continent": "AS",
    "Continent ID": "2991520000036238589",
    "Country Code": "VN",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000057663532",
    "Country Name": "Vietnam",
    "Market": "Asia"
  },
@@ -1059,7 +1059,7 @@
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
    "Country Code": "CZ",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000057663556",
    "Country Name": "Czechia (Czech Republic)",
    "Market": "UK EU"
  },
@@ -1067,7 +1067,7 @@
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
    "Country Code": "DK",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000057663526",
    "Country Name": "Denmark",
    "Market": "UK EU"
  },
@@ -1331,7 +1331,7 @@
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
    "Country Code": "SK",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000057663548",
    "Country Name": "Slovakia",
    "Market": "UK EU"
  },
@@ -1347,7 +1347,7 @@
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
    "Country Code": "ES",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000057663544",
    "Country Name": "Spain",
    "Market": "UK EU"
  },
@@ -1363,7 +1363,7 @@
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
    "Country Code": "SE",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000057663540",
    "Country Name": "Sweden",
    "Market": "UK EU"
  },
