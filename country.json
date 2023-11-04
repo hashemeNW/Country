@@ -634,14 +634,6 @@
  {
    "Continent": "AS",
    "Continent ID": "2991520000036238589",
-   "Country Code": "GE",
-   "Country ID": "#N/A",
-   "Country Name": "Georgia",
-   "Market": "CIS Balkan"
- },
- {
-   "Continent": "AS",
-   "Continent ID": "2991520000036238589",
    "Country Code": "HK",
    "Country ID": "2991520000041366207",
    "Country Name": "Hong Kong",
@@ -1107,7 +1099,7 @@
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
    "Country Code": "GE",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000058066350",
    "Country Name": "Georgia",
    "Market": "CIS Balkan"
  },
@@ -1115,7 +1107,7 @@
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
    "Country Code": "DE",
-   "Country ID": "#N/A",
+   "Country ID": "2991520000058066346",
    "Country Name": "Germany",
    "Market": "UK EU"
  },
