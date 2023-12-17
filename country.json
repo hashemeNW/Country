@@ -626,14 +626,6 @@
  {
    "Continent": "AS",
    "Continent ID": "2991520000036238589",
-   "Country Code": "CY",
-   "Country ID": "2991520000037278855",
-   "Country Name": "Cyprus",
-   "Market": "UK EU"
- },
- {
-   "Continent": "AS",
-   "Continent ID": "2991520000036238589",
    "Country Code": "HK",
    "Country ID": "2991520000041366207",
    "Country Name": "Hong Kong",
@@ -686,14 +678,6 @@
    "Country ID": "2991520000037278903",
    "Country Name": "Japan",
    "Market": "Asia"
- },
- {
-   "Continent": "AS",
-   "Continent ID": "2991520000036238589",
-   "Country Code": "KZ",
-   "Country ID": "2991520000037278929",
-   "Country Name": "Kazakhstan",
-   "Market": "CIS Balkan"
  },
  {
    "Continent": "AS",
@@ -970,25 +954,9 @@
  {
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
-   "Country Code": "AZ",
-   "Country ID": "2991520000037278857",
-   "Country Name": "Azerbaijan",
-   "Market": "CIS Balkan"
- },
- {
-   "Continent": "EU",
-   "Continent ID": "2991520000036238587",
    "Country Code": "AT",
    "Country ID": "#N/A",
    "Country Name": "Austria",
-   "Market": "#N/A"
- },
- {
-   "Continent": "EU",
-   "Continent ID": "2991520000036238587",
-   "Country Code": "AM",
-   "Country ID": "#N/A",
-   "Country Name": "Armenia",
    "Market": "#N/A"
  },
  {
@@ -1290,14 +1258,6 @@
  {
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
-   "Country Code": "RU",
-   "Country ID": "2991520000037278927",
-   "Country Name": "Russia",
-   "Market": "Russia"
- },
- {
-   "Continent": "EU",
-   "Continent ID": "2991520000036238587",
    "Country Code": "SM",
    "Country ID": "#N/A",
    "Country Name": "San Marino",
@@ -1358,14 +1318,6 @@
    "Country ID": "2991520000037278845",
    "Country Name": "Switzerland",
    "Market": "UK EU"
- },
- {
-   "Continent": "EU",
-   "Continent ID": "2991520000036238587",
-   "Country Code": "TR",
-   "Country ID": "2991520000041458097",
-   "Country Name": "Turkey",
-   "Market": "Middle East"
  },
  {
    "Continent": "EU",
