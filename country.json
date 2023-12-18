@@ -496,22 +496,6 @@
    "Market": "#N/A"
  },
  {
-   "Continent": "AN",
-   "Continent ID": "2991520000036238603",
-   "Country Code": "GS",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
-   "Market": "#N/A"
- },
- {
-   "Continent": "AN",
-   "Continent ID": "2991520000036238603",
-   "Country Code": "HM",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
-   "Market": "#N/A"
- },
- {
    "Continent": "AS",
    "Continent ID": "2991520000036238589",
    "Country Code": "AF",
@@ -920,22 +904,6 @@
    "Market": "Middle East"
  },
  {
-   "Continent": "AS",
-   "Continent ID": "2991520000036238589",
-   "Country Code": "XD",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
-   "Market": "#N/A"
- },
- {
-   "Continent": "AS",
-   "Continent ID": "2991520000036238589",
-   "Country Code": "XS",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
-   "Market": "#N/A"
- },
- {
    "Continent": "EU",
    "Continent ID": "2991520000036238587",
    "Country Code": "AL",
@@ -1045,14 +1013,6 @@
    "Country Code": "FI",
    "Country ID": "#N/A",
    "Country Name": "Finland",
-   "Market": "#N/A"
- },
- {
-   "Continent": "EU",
-   "Continent ID": "2991520000036238587",
-   "Country Code": "AX",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
    "Market": "#N/A"
  },
  {
@@ -1490,14 +1450,6 @@
  {
    "Continent": "NA",
    "Continent ID": "2991520000036238585",
-   "Country Code": "GP",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
-   "Market": "#N/A"
- },
- {
-   "Continent": "NA",
-   "Continent ID": "2991520000036238585",
    "Country Code": "GT",
    "Country ID": "2991520000037278873",
    "Country Name": "Guatemala",
@@ -1525,14 +1477,6 @@
    "Country Code": "JM",
    "Country ID": "#N/A",
    "Country Name": "Jamaica",
-   "Market": "#N/A"
- },
- {
-   "Continent": "NA",
-   "Continent ID": "2991520000036238585",
-   "Country Code": "MQ",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
    "Market": "#N/A"
  },
  {
@@ -1578,25 +1522,9 @@
  {
    "Continent": "NA",
    "Continent ID": "2991520000036238585",
-   "Country Code": "BQ",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
-   "Market": "#N/A"
- },
- {
-   "Continent": "NA",
-   "Continent ID": "2991520000036238585",
    "Country Code": "NI",
    "Country ID": "#N/A",
    "Country Name": "Nicaragua",
-   "Market": "#N/A"
- },
- {
-   "Continent": "NA",
-   "Continent ID": "2991520000036238585",
-   "Country Code": "UM",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
    "Market": "#N/A"
  },
  {
@@ -1810,25 +1738,9 @@
  {
    "Continent": "OC",
    "Continent ID": "2991520000036238593",
-   "Country Code": "NF",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
-   "Market": "#N/A"
- },
- {
-   "Continent": "OC",
-   "Continent ID": "2991520000036238593",
    "Country Code": "MP",
    "Country ID": "#N/A",
    "Country Name": "Northern Mariana Islands",
-   "Market": "#N/A"
- },
- {
-   "Continent": "OC",
-   "Continent ID": "2991520000036238593",
-   "Country Code": "UM",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
    "Market": "#N/A"
  },
  {
@@ -1912,14 +1824,6 @@
    "Market": "#N/A"
  },
  {
-   "Continent": "OC",
-   "Continent ID": "2991520000036238593",
-   "Country Code": "XX",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
-   "Market": "#N/A"
- },
- {
    "Continent": "SA",
    "Continent ID": "2991520000036238601",
    "Country Code": "AR",
@@ -1973,14 +1877,6 @@
    "Country Code": "FK",
    "Country ID": "#N/A",
    "Country Name": "Falkland Islands",
-   "Market": "#N/A"
- },
- {
-   "Continent": "SA",
-   "Continent ID": "2991520000036238601",
-   "Country Code": "GF",
-   "Country ID": "#N/A",
-   "Country Name": "#N/A",
    "Market": "#N/A"
  },
  {
