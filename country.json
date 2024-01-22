@@ -1626,6 +1626,14 @@
  {
    "Continent": "NA",
    "Continent ID": "2991520000036238585",
+   "Country Code": "US",
+   "Country ID": "2991520000037278837",
+   "Country Name": "U.S.A",
+   "Market": "Americas"
+ },
+ {
+   "Continent": "NA",
+   "Continent ID": "2991520000036238585",
    "Country Code": "VI",
    "Country ID": "#N/A",
    "Country Name": "U.S. Virgin Islands",
