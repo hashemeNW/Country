@@ -5,7 +5,7 @@
    "Country Code": "DZ",
    "Country ID": "2991520000041458087",
    "Country Name": "Algeria",
-   "Market": "African"
+   "Market": "MENA"
  },
  {
    "Continent": "AF",
@@ -60,7 +60,7 @@
    "Continent ID": "2991520000036238583",
    "Country Code": "CF",
    "Country ID": "#N/A",
-   "Country Name": "Central African Republic",
+   "Country Name": "Central MENA Republic",
    "Market": "#N/A"
  },
  {
@@ -221,7 +221,7 @@
    "Country Code": "LY",
    "Country ID": "2991520000041458085",
    "Country Name": "Libya",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AF",
@@ -269,7 +269,7 @@
    "Country Code": "MA",
    "Country ID": "2991520000037278913",
    "Country Name": "Morocco",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AF",
@@ -301,7 +301,7 @@
    "Country Code": "NG",
    "Country ID": "2991520000037278931",
    "Country Name": "Nigeria",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AF",
@@ -381,7 +381,7 @@
    "Country Code": "ZA",
    "Country ID": "2991520000041458081",
    "Country Name": "South Africa",
-   "Market": "African"
+   "Market": "MENA"
  },
  {
    "Continent": "AF",
@@ -389,7 +389,7 @@
    "Country Code": "ZW",
    "Country ID": "2991520000041458091",
    "Country Name": "Zimbabwe",
-   "Market": "African"
+   "Market": "MENA"
  },
  {
    "Continent": "AF",
@@ -453,7 +453,7 @@
    "Country Code": "EG",
    "Country ID": "2991520000037278933",
    "Country Name": "Egypt",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AF",
@@ -477,7 +477,7 @@
    "Country Code": "ZM",
    "Country ID": "#N/A",
    "Country Name": "Zambia",
-   "Market": "#N/A"
+   "Market": "MENA"
  },
  {
    "Continent": "AN",
@@ -501,7 +501,7 @@
    "Country Code": "AF",
    "Country ID": "#N/A",
    "Country Name": "Afghanistan",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -509,7 +509,7 @@
    "Country Code": "AZ",
    "Country ID": "2991520000037278857",
    "Country Name": "Azerbaijan",
-   "Market": "CIS Balkan"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -517,7 +517,7 @@
    "Country Code": "BH",
    "Country ID": "2991520000057663552",
    "Country Name": "Bahrain",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -541,7 +541,7 @@
    "Country Code": "BT",
    "Country ID": "#N/A",
    "Country Name": "Bhutan",
-   "Market": "#N/A"
+   "Market": "Asia"
  },
  {
    "Continent": "AS",
@@ -637,7 +637,7 @@
    "Country Code": "IR",
    "Country ID": "2991520000037278935",
    "Country Name": "Iran",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -645,7 +645,7 @@
    "Country Code": "IQ",
    "Country ID": "2991520000037278897",
    "Country Name": "Iraq",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -653,7 +653,7 @@
    "Country Code": "IL",
    "Country ID": "2991520000037278937",
    "Country Name": "Israel",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -669,7 +669,7 @@
    "Country Code": "JO",
    "Country ID": "2991520000041366203",
    "Country Name": "Jordan",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -693,7 +693,7 @@
    "Country Code": "KW",
    "Country ID": "2991520000037278899",
    "Country Name": "Kuwait",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -717,7 +717,7 @@
    "Country Code": "LB",
    "Country ID": "2991520000037278915",
    "Country Name": "Lebanon",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -821,7 +821,7 @@
    "Country Code": "SA",
    "Country ID": "2991520000037278889",
    "Country Name": "Saudi Arabia",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -869,7 +869,7 @@
    "Country Code": "AE",
    "Country ID": "2991520000037278893",
    "Country Name": "United Arab Emirates",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -877,7 +877,7 @@
    "Country Code": "TR",
    "Country ID": "2991520000041458097",
    "Country Name": "Turkey",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -893,7 +893,7 @@
    "Country Code": "UZ",
    "Country ID": "2991520000041366211",
    "Country Name": "Uzbekistan",
-   "Market": "CIS Balkan"
+   "Market": "MENA"
  },
  {
    "Continent": "AS",
@@ -901,7 +901,7 @@
    "Country Code": "YE",
    "Country ID": "2991520000037278895",
    "Country Name": "Yemen",
-   "Market": "Middle East"
+   "Market": "MENA"
  },
  {
    "Continent": "EU",
@@ -1029,7 +1029,7 @@
    "Country Code": "GE",
    "Country ID": "2991520000058066350",
    "Country Name": "Georgia",
-   "Market": "CIS Balkan"
+   "Market": "MENA"
  },
  {
    "Continent": "EU",
@@ -1101,7 +1101,7 @@
    "Country Code": "KZ",
    "Country ID": "2991520000037278929",
    "Country Name": "Kazakhstan",
-   "Market": "CIS Balkan"
+   "Market": "MENA"
  },
  {
    "Continent": "EU",
@@ -1285,7 +1285,7 @@
    "Country Code": "UA",
    "Country ID": "#N/A",
    "Country Name": "Ukraine",
-   "Market": "#N/A"
+   "Market": "MENA"
  },
  {
    "Continent": "EU",
